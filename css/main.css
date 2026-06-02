@@ -225,3 +225,11 @@ footer {
 
 
 /* flexible image rules end here */
+
+h4 {
+    font-weight: strong;
+    margin: auto;
+    background: #fff;
+    line-height: 2.5em;
+    padding-left:1%;
+}
